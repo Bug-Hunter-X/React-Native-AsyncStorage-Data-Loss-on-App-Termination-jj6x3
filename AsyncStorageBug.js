@@ -1,0 +1,1 @@
+This React Native bug arises when using AsyncStorage to store and retrieve data. The issue manifests when the app unexpectedly crashes or is terminated before AsyncStorage can fully persist data. This results in data loss or corruption upon subsequent app launches, leading to inconsistent application behavior.
